@@ -1,9 +1,5 @@
 #pragma once
 
-#include <array>
-#include <optional>
-
-
 namespace ruckig {
 
 //! Mathematical equations for Step 1 in third-order velocity interface: Extremal profiles

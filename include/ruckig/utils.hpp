@@ -1,13 +1,7 @@
 #pragma once
 
-#include <array>
 #include <iomanip>
 #include <sstream>
-#include <string>
-#include <tuple>
-#include <type_traits>
-#include <vector>
-
 
 namespace ruckig {
 

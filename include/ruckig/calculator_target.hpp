@@ -1,12 +1,7 @@
 #pragma once
 
-#include <algorithm>
-#include <array>
-#include <iostream>
-#include <limits>
-#include <optional>
-#include <tuple>
-#include <type_traits>
+// Checked
+#include <numeric>
 
 #include <ruckig/block.hpp>
 #include <ruckig/brake.hpp>

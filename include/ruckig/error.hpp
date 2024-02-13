@@ -1,10 +1,5 @@
 #pragma once
 
-#include <exception>
-#include <stdexcept>
-#include <string>
-
-
 namespace ruckig {
 
 //! The base class for all exceptions

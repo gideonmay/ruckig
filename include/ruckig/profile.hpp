@@ -1,17 +1,8 @@
 #pragma once
 
-#include <algorithm>
-#include <array>
-#include <cmath>
-#include <iomanip>
-#include <iostream>
-#include <limits>
-#include <optional>
-
 #include <ruckig/brake.hpp>
 #include <ruckig/roots.hpp>
 #include <ruckig/utils.hpp>
-
 
 namespace ruckig {
 

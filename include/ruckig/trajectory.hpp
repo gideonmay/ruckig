@@ -1,13 +1,7 @@
 #pragma once
 
-#include <array>
-#include <functional>
-#include <tuple>
-#include <vector>
-
 #include <ruckig/error.hpp>
 #include <ruckig/profile.hpp>
-
 
 namespace ruckig {
 

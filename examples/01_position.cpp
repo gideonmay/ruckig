@@ -2,7 +2,6 @@
 
 #include <ruckig/ruckig.hpp>
 
-
 using namespace ruckig;
 
 int main() {

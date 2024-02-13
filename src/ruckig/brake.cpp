@@ -1,6 +1,5 @@
 #include <ruckig/brake.hpp>
 
-
 namespace ruckig {
 
 inline double v_at_t(double v0, double a0, double j, double t) {

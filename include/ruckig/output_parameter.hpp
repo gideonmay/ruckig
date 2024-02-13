@@ -1,12 +1,7 @@
 #pragma once
 
-#include <array>
-#include <iomanip>
-#include <type_traits>
-
 #include <ruckig/trajectory.hpp>
 #include <ruckig/utils.hpp>
-
 
 namespace ruckig {
 

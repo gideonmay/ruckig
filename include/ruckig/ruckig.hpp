@@ -1,21 +1,10 @@
 #pragma once
 
-#include <algorithm>
-#include <array>
-#include <chrono>
-#include <iostream>
-#include <limits>
-#include <math.h>
-#include <numeric>
-#include <optional>
-#include <tuple>
-
 #include <ruckig/calculator.hpp>
 #include <ruckig/error.hpp>
 #include <ruckig/input_parameter.hpp>
 #include <ruckig/output_parameter.hpp>
 #include <ruckig/trajectory.hpp>
-
 
 namespace ruckig {
 

@@ -7,7 +7,6 @@
 #include <ruckig/input_parameter.hpp>
 #include <ruckig/trajectory.hpp>
 
-
 namespace ruckig {
 
 //! Internal interface for the main calculator and its hyperparameters

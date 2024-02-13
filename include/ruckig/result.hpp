@@ -1,6 +1,5 @@
 #pragma once
 
-
 namespace ruckig {
 
 //! Result type of Ruckig's update function
